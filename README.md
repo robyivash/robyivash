@@ -11,9 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ## Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Взлом канал Перший канал Росії.](https://www.youtube.com/watch?v=oV0upNQU3Ig)
 - [Строю на Місяці свій будинок. @СакСайд](https://www.youtube.com/watch?v=YIa4q3l8QGg)
 - [Взлом російських база данних у facebook.#facebook #stop_russia_aggression #shorts](https://www.youtube.com/watch?v=QL0l61LWxQU)
 - [Віртуальний світ. Великобританія. #Газлго #великобританія](https://www.youtube.com/watch?v=rMWvaOAvEFA)
 - [Віртуальний світ. Польща. Варшава #варшава #польща #оон](https://www.youtube.com/watch?v=Cm8BwosBDBI)
-- [Android 9 от Tidesoft #shorts #android](https://www.youtube.com/watch?v=JFlHzuoDiTc)
 <!-- YOUTUBE:END -->
