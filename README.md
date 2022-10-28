@@ -11,9 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ## Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Вийшла версія Minecraft bedrock edition v1.19.40](https://www.youtube.com/watch?v=_dDA61-HZZk)
 - [Frostdog іграє на пиратці.](https://www.youtube.com/watch?v=QsC1YooXjgk)
 - [Кидаємо жалобу на telegram yolodroid. @AndroHack](https://www.youtube.com/watch?v=GsSc-j4Vb3s)
 - [Дитяче Євробачення для голосування. #eurovision #вірменія](https://www.youtube.com/watch?v=BVVo2kJ7JcQ)
 - [МКПЕ мастер Live #mcpe #master #live](https://www.youtube.com/watch?v=8yTfKcGs36M)
-- [Взлом канал Перший канал Росії.](https://www.youtube.com/watch?v=oV0upNQU3Ig)
 <!-- YOUTUBE:END -->
