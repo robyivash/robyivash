@@ -11,9 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
 ## Latest YouTube Videos:
 <!-- YOUTUBE:START -->
+- [Відкритття ялинку на станції Театральна в метро](https://www.youtube.com/watch?v=hNLMkDIPXHo)
+- [Фільм про Марію Квітку #голоскраїни #тет](https://www.youtube.com/watch?v=RRGc56YIlsg)
 - [У мене немає пруфі на сервері-бедрока dygers.ru RobyIvanov62 #2](https://www.youtube.com/watch?v=BQzLsoV7HcI)
 - [Вийшла версія Minecraft bedrock edition v1.19.40](https://www.youtube.com/watch?v=_dDA61-HZZk)
 - [Frostdog іграє на пиратці.](https://www.youtube.com/watch?v=QsC1YooXjgk)
-- [Кидаємо жалобу на telegram yolodroid. @AndroHack](https://www.youtube.com/watch?v=GsSc-j4Vb3s)
-- [Дитяче Євробачення для голосування. #eurovision #вірменія](https://www.youtube.com/watch?v=BVVo2kJ7JcQ)
 <!-- YOUTUBE:END -->
